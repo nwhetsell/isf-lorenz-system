@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="468" alt="Screenshot" src="https://github.com/user-attachments/assets/1c05c111-f907-4f4a-9181-3b43ec69f0e4" />
+</p>
+
 This is an [ISF shader](https://isf.video) to plot a
 [Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system). This particular
 shader is converted from
