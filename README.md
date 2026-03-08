@@ -3,8 +3,7 @@
 </p>
 
 This is an [ISF shader](https://isf.video) to plot a
-[Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system). This particular
-shader is converted from
+[Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system), converted from
 [this ShaderToy shader](https://www.shadertoy.com/view/XddGWj).
 
 This is a multi-pass shader that is intended to be used with floating-point
